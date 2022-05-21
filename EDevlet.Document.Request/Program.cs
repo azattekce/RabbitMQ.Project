@@ -17,6 +17,7 @@ namespace EDevlet.Document.Request
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmMain());
+            //Ok
         }
     }
 }
